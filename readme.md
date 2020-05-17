@@ -1,1 +1,1 @@
-## este es un proyecto de prueba que quiero subir a git  y me gustaria regresar esta actualizacion a mi git local y ahora ahi te voy san pedro de regreso prueba 2
+## este es un proyecto de prueba que quiero subir a git  y me gustaria regresar esta actualizacion a mi git local y ahora ahi te voy san pedro de regreso prueba 2 ahora me quiero recordar de como va a ir de regreso todo otra vez 
